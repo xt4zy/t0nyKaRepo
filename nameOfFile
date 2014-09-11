@@ -1,0 +1,7 @@
+func hTony() {
+	var mHello = "Hello, Tony!";
+	//something else
+	//and there
+	//again there ))
+	print mHello;
+}
